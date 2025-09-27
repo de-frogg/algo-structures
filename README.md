@@ -1,6 +1,42 @@
-# Modular course work
-The relevance of the course work is a set of algorithms and program code for working with modular programming, as well as a description of modern programming languages. The program solves problems in the field of development, modulation and construction of a solution algorithm for the task. Use on levels of abstraction, when the whole problem or set of tasks is divided into tasks, subtasks, abstracted and presented as a hierarchical tree of interconnected modules, collectively representing the software being created.
+# 📘 Modular Course Work
 
-The purpose of the course work is the creation and description of a software structure for working with modular programming and the development of a set of methods and algorithms to achieve this goal.
+## 🔹 Актуальность
+Курсовая работа посвящена **алгоритмам и программному коду**, основанным на принципах **модульного программирования** 🧩.  
 
-Its initial data and operations are designed to solve one specific problem. Such a module has maximum connectivity and, as a result, good manufacturability. For example, ease of compilation, testing, maintenance. All considered parameters of the subroutines made it possible to execute the same algorithm with different data. In Pascal, there is another possibility - to parameterize the algorithm with functions and procedures. This can be useful if you want to perform the same sequence of actions, within which you call different functions or procedures. The description of a subroutine parameter in most cases consists of a name and a type. The function name is a constant of a procedural (functional) type, which must be declared in the type section.
+Она включает в себя описание современных языков программирования, а также демонстрацию того, как модульный подход помогает:
+
+1. Решать задачи разработки и моделирования,  
+2. Строить алгоритмы для конкретных задач.  
+
+При таком подходе вся проблема разделяется на **задачи и подзадачи**, которые выстраиваются в иерархическое дерево модулей, взаимосвязанных между собой и формирующих единое программное решение. 🌐  
+
+---
+
+## 🎯 Цель работы
+**Создание и описание структуры программного обеспечения**, построенной по принципам модульного программирования, а также разработка набора методов и алгоритмов для достижения этой цели.  
+
+---
+
+## ⚙️ Особенности модулей
+Каждый модуль предназначен для решения **одной конкретной задачи**.  
+
+Такой подход обеспечивает:  
+- максимальную связанность 🔗,  
+- простоту компиляции 🛠️,  
+- лёгкость тестирования 🧪,  
+- удобство сопровождения и расширения 📈.  
+
+---
+
+## 💡 Пример (Pascal)
+В языке **Pascal** предусмотрена возможность **параметризации алгоритмов функциями и процедурами**.  
+
+Это особенно полезно, если необходимо:  
+- выполнить одну и ту же последовательность действий,  
+- при этом использовать разные функции или процедуры внутри неё.  
+
+👉 Описание параметра подпрограммы, как правило, включает:  
+- **имя**,  
+- **тип**.  
+
+Имя функции — это **константа процедурного (или функционального) типа**, которая должна быть объявлена в секции `type`.  
